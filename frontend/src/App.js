@@ -1,7 +1,11 @@
+import Footer from "./components/Footer";
+import Search from "./components/Search";
+
 function App() {
   return (
     <div className="App">
-      Hello
+      <Search />
+      <Footer />
     </div>
   );
 }

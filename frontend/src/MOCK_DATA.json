@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Mastering Binary Search",
+    "authorName": "John Smith",
+    "authorRating": 2123,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Exploring Binary Search Trees",
+    "authorName": "Emma Johnson",
+    "authorRating": 1785,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Binary Search vs Linear Search: Which is Faster?",
+    "authorName": "Luis Garcia",
+    "authorRating": 2267,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Optimizing Algorithms: The Binary Search Approach",
+    "authorName": "Sophie Müller",
+    "authorRating": 1399,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Advanced Techniques in Binary Search",
+    "authorName": "Chen Wei",
+    "authorRating": 2478,
+    "tag": "Binary search"
+  },
+  {
+    "title": "The Art of Binary Search Implementation",
+    "authorName": "Maria Santos",
+    "authorRating": 800,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Understanding Binary Search: A Step-by-Step Guide",
+    "authorName": "Hans Schmidt",
+    "authorRating": 1956,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Binary Search Explained: Solving Problems Efficiently",
+    "authorName": "Anna Johansson",
+    "authorRating": 2371,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Demystifying Binary Search Techniques",
+    "authorName": "Javier Martínez",
+    "authorRating": 1632,
+    "tag": "Binary search"
+  },
+  {
+    "title": "The Power of Binary Search: Unleashing Its Potential",
+    "authorName": "Olivia Brown",
+    "authorRating": 2190,
+    "tag": "Binary search"
+  },
+  {
+    "title": "Mastering Dynamic Programming Techniques",
+    "authorName": "Ryan Lee",
+    "authorRating": 2405,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Understanding the Essence of Dynamic Programming",
+    "authorName": "Sofia Müller",
+    "authorRating": 1586,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Dynamic Programming Demystified: A Comprehensive Guide",
+    "authorName": "Muhammad Ali",
+    "authorRating": 2134,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Dynamic Programming vs Greedy Approach: Choosing the Right Strategy",
+    "authorName": "Elena Petrova",
+    "authorRating": 1837,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Unlocking the Potential of Dynamic Programming",
+    "authorName": "Daniel Kim",
+    "authorRating": 2210,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Dynamic Programming: Solving Complex Problems Efficiently",
+    "authorName": "Alice Johnson",
+    "authorRating": 1267,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "The Art of Dynamic Programming: Strategies and Techniques",
+    "authorName": "Lucas Müller",
+    "authorRating": 1798,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Dynamic Programming Explained: Step-by-Step Solutions",
+    "authorName": "Sophia Wang",
+    "authorRating": 2314,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Dynamic Programming Mastery: Tackling Hard Problems",
+    "authorName": "Liam Johnson",
+    "authorRating": 2056,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "Breaking Down Dynamic Programming: Practical Examples",
+    "authorName": "Julia Smith",
+    "authorRating": 2489,
+    "tag": "dynamic programming"
+  },
+  {
+    "title": "String Algorithms Tutorial: Exploring Manacher's Algorithm",
+    "authorName": "Liu Wei",
+    "authorRating": 2567,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Efficient String Matching: KMP Algorithm Explained",
+    "authorName": "Maria Schmidt",
+    "authorRating": 2210,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Advanced String Manipulation Techniques",
+    "authorName": "Mikhail Ivanov",
+    "authorRating": 1938,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Comparing String Algorithms: Manacher's vs KMP",
+    "authorName": "Sophie Li",
+    "authorRating": 2356,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Understanding Suffix Trees: A Key to String Algorithms",
+    "authorName": "Andreas Mueller",
+    "authorRating": 2678,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "String Algorithms Demystified: Breaking Down the Basics",
+    "authorName": "Wei Zhang",
+    "authorRating": 1992,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Enhancing String Matching: The Power of Rabin-Karp Algorithm",
+    "authorName": "Elena Petrova",
+    "authorRating": 2185,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Optimizing String Search: Trie Data Structure and Beyond",
+    "authorName": "Stefan Becker",
+    "authorRating": 2560,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Practical Applications of String Algorithms in Text Processing",
+    "authorName": "Huang Wei",
+    "authorRating": 1912,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "String Algorithms: From Theory to Implementation",
+    "authorName": "Marco Rossi",
+    "authorRating": 2823,
+    "tag": "String algorithms"
+  },
+  {
+    "title": "Graph Algorithms: Exploring Depth-First Search (DFS)",
+    "authorName": "Matteo Bianchi",
+    "authorRating": 2408,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Breadth-First Search (BFS) Demystified: Understanding Its Core Concepts",
+    "authorName": "Sven Schmidt",
+    "authorRating": 2156,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Dynamic Connectivity in Graphs: Exploring the Disjoint Set Union (DSU) Data Structure",
+    "authorName": "Léa Dubois",
+    "authorRating": 1975,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Graph Traversal Techniques: A Comprehensive Guide",
+    "authorName": "Chen Wei",
+    "authorRating": 2654,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Advanced Graph Algorithms: Solving Real-World Problems",
+    "authorName": "Eva Müller",
+    "authorRating": 2237,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Optimizing Shortest Path Algorithms: A Deep Dive into Dijkstra's Algorithm",
+    "authorName": "Javier Martinez",
+    "authorRating": 2053,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Graph Algorithms: Unveiling the Mysteries of Topological Sorting",
+    "authorName": "Sophia Wang",
+    "authorRating": 2876,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Dynamic Programming on Graphs: Solving Complex Problems Efficiently",
+    "authorName": "Andrea Rossi",
+    "authorRating": 1919,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Graph Algorithms in Action: Practical Examples and Implementations",
+    "authorName": "Yun Chen",
+    "authorRating": 2523,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Exploring Connected Components: Algorithms and Applications",
+    "authorName": "William Johnson",
+    "authorRating": 2712,
+    "tag": "Graph algorithms"
+  },
+  {
+    "title": "Computational Geometry: Exploring Convex Hull Algorithms",
+    "authorName": "Nikolai Ivanov",
+    "authorRating": 2534,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Solving Polygon Problems: Advanced Techniques in Computational Geometry",
+    "authorName": "Sophie Müller",
+    "authorRating": 2167,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Geometric Algorithms: Applications in 2D and 3D Space",
+    "authorName": "Chen Wei",
+    "authorRating": 1989,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Understanding Voronoi Diagrams: Geometric Concepts and Applications",
+    "authorName": "Elena Petrova",
+    "authorRating": 2285,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Solving Intersection Problems: Advanced Techniques in Computational Geometry",
+    "authorName": "Andreas Müller",
+    "authorRating": 2756,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Geometric Data Structures: Foundations for Efficient Algorithms",
+    "authorName": "Lucas Rossi",
+    "authorRating": 2034,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Algorithms for Polygon Triangulation: Theory and Practice",
+    "authorName": "Olivia Brown",
+    "authorRating": 2610,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Computational Geometry in Action: Practical Applications and Implementations",
+    "authorName": "Huang Wei",
+    "authorRating": 1887,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Efficient Line Intersection Algorithms: A Deep Dive into Sweeping Techniques",
+    "authorName": "Marco Rossi",
+    "authorRating": 2965,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Geometric Algorithms: Solving Real-World Problems with Computational Techniques",
+    "authorName": "Alice Johnson",
+    "authorRating": 2356,
+    "tag": "Geometry algorithms"
+  },
+  {
+    "title": "Probability Theory Fundamentals: A Comprehensive Guide",
+    "authorName": "Ryan Lee",
+    "authorRating": 2546,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Exploring Number Theory: Prime Numbers and Their Applications",
+    "authorName": "Sofia Wang",
+    "authorRating": 2213,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Advanced Probability Techniques: Markov Chains and Monte Carlo Methods",
+    "authorName": "Muhammad Ali",
+    "authorRating": 2089,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Number Theory Algorithms: Efficient Methods for Factorization and Primality Testing",
+    "authorName": "Eva Müller",
+    "authorRating": 2678,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Probability Distributions: Understanding Statistical Concepts",
+    "authorName": "Liam Johnson",
+    "authorRating": 1935,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Analyzing Randomized Algorithms: The Role of Probability in Algorithm Design",
+    "authorName": "Julia Smith",
+    "authorRating": 2367,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Number Theory in Cryptography: Encryption and Decryption Techniques",
+    "authorName": "Andrea Rossi",
+    "authorRating": 2198,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Probabilistic Data Structures: Efficient Solutions for Big Data Problems",
+    "authorName": "Yun Chen",
+    "authorRating": 2821,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Understanding Probability Distributions: Applications in Data Science",
+    "authorName": "William Johnson",
+    "authorRating": 2009,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Advanced Topics in Number Theory: Modular Arithmetic and Beyond",
+    "authorName": "Sophie Li",
+    "authorRating": 2754,
+    "tag": "Probability & Number Theory"
+  },
+  {
+    "title": "Greedy Algorithms in Graph Theory: Finding Minimum Spanning Trees",
+    "authorName": "Léa Dubois",
+    "authorRating": 1987,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Optimal Job Scheduling: Greedy Algorithm Approaches",
+    "authorName": "Nikolai Ivanov",
+    "authorRating": 2156,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Huffman Coding: Greedy Approach to Data Compression",
+    "authorName": "Sophie Müller",
+    "authorRating": 2823,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Greedy Algorithms in Network Flow Problems: Max Flow and Min Cut",
+    "authorName": "Chen Wei",
+    "authorRating": 2034,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Greedy Algorithmic Techniques: Solving the Knapsack Problem",
+    "authorName": "Elena Petrova",
+    "authorRating": 2610,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Greedy Algorithms in Task Scheduling: Achieving Efficiency",
+    "authorName": "Andreas Müller",
+    "authorRating": 1887,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Approximation Algorithms: Greedy Techniques for NP-Hard Problems",
+    "authorName": "Lucas Rossi",
+    "authorRating": 2965,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Greedy Algorithm Optimization: Finding the Shortest Path",
+    "authorName": "Olivia Brown",
+    "authorRating": 2356,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Greedy Algorithms for Optimal Resource Allocation",
+    "authorName": "Huang Wei",
+    "authorRating": 2546,
+    "tag": "Greedy algorithms"
+  },
+  {
+    "title": "Real-World Applications of Greedy Algorithms: A Case Study Approach",
+    "authorName": "Marco Rossi",
+    "authorRating": 2213,
+    "tag": "Greedy algorithms"
+  }
+]
