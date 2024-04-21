@@ -1,17 +1,17 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
-const blogSchema = new Schema(
+const problemSchema = new Schema(
   {
-    title: {
+    problemCode: {
       type: String,
       required: true,
     },
-    authorName: {
+    problemName: {
       type: String,
       required: true,
     },
-    authorRating: {
+    problemRating: {
       type: Number,
       required: true,
     },
@@ -25,5 +25,5 @@ const blogSchema = new Schema(
   }
 );
 
-const Blog = mongoose.model("Blog", blogSchema);
-module.exports = Blog;
+const Problem = mongoose.model("Problem", problemSchema);
+module.exports = Problem;

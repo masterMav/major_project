@@ -3,10 +3,14 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const colors = require("colors");
 const Blog = require("./models/blog");
+const Problem = require("./models/problem");
+const initBot = require("./discord_bot/bot");
+
+let data = require("../frontend/src/PROBLEMSET.json");
 
 const app = express();
 dotenv.config();
-//routes 
+//routes
 
 // app.get("/add", (req, res) => {
 //   const blog = new Blog({
@@ -21,10 +25,19 @@ dotenv.config();
 //     .catch((err) => console.log(err));
 // });
 
-app.get("/all", async (req, res) => {
+app.get("/allblogs", async (req, res) => {
   try {
-    const allBlogs = await Blog.find().sort({ createdAt: -1 });
+    const allBlogs = await Blog.find();
     res.send(allBlogs);
+  } catch (err) {
+    res.status(500).send(err.message);
+  }
+});
+
+app.get("/allproblems", async (req, res) => {
+  try {
+    const allProblems = await Problem.find();
+    res.send(allProblems);
   } catch (err) {
     res.status(500).send(err.message);
   }
@@ -38,8 +51,11 @@ mongoose
   .connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
     console.log("Connected to DB".cyan.underline);
+
     app.listen(port, () => {
       console.log(`Server is running on port ${port}`.cyan.underline);
     });
+
+    initBot();
   })
   .catch((err) => console.log(err));
