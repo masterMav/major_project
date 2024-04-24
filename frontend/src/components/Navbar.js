@@ -49,7 +49,7 @@ const Navbar = () => {
 
       <div className="navbar-links-container">
         <Link to="/">Home</Link>
-        <Link to="/">About</Link>
+        <Link to="/problemsearch">Problemset</Link>
         <Link to="/search">
           <button className="primary-button">Search</button>
         </Link>

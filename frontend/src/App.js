@@ -6,6 +6,7 @@ import Work from "./components/Work";
 import Contact from "./components/Contact";
 import FirstFooter from "./components/FirstFooter";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import ProblemSearch from "./components/ProblemSearch";
 
 function App() {
   return (
@@ -24,6 +25,11 @@ function App() {
 
           <Route exact path="/search">
             <Search />
+            <Footer />
+          </Route>
+
+          <Route exact path="/problemsearch">
+            <ProblemSearch />
             <Footer />
           </Route>
         </Switch>
